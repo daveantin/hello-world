@@ -1,2 +1,2 @@
 # hello-world
-killing-time
+killing-time same as wasting-time
