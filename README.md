@@ -1,3 +1,2 @@
 # hello-world
-killing-time
-wasting-time
+wasting and killing time
